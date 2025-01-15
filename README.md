@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Tamanna (aka Tasha)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tashxx._.xx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tamanna-shaw-mg) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tamanna-shaw-mg) 
 - 👀 I’m interested in coding stuff for the future.
 - 🌱 I’m currently learning AIML.
 - 💞️ I’m looking to collaborate on literally ANYTHING. I enjoy learning things I don't really know much about.
