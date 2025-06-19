@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Tamanna Shaw</h1>
-<p>A passionate frontend developer from India</p>
+<p>A full stack developer + ML developer from India</p>
 <p>Currently I'm learning Three.js+Blender</p>
 
 
